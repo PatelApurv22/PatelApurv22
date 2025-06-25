@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PatelApurv22
-- 👀 I’m interested in Web Devlpment,Java ,C,cpp,Html,Css,etc.
+- 👀 I’m interested in Web Devlpment,Java ,C,Cpp,Python,cpp,Html,Css,DMBS(SQL),etc.
 - 🌱 I’m currently learning C,cpp,Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You Can Reach me by msg me.
 
 <!---
